@@ -28,7 +28,7 @@ BOT_NAME       = "𝐅𝐁 𝐈𝐃 𝐒𝐮𝐛𝐦𝐢𝐭 𝐇𝐮𝐛"
 MAX_HISTORY    = 10
 
 # STYLIZED BUTTON LABELS & STRINGS
-BTN_SELL      = "🚀 𝐒𝐄𝐋𝐋 𝐈𝐃 🚀"
+BTN_SELL      = "♂️ 𝐒𝐄𝐋𝐋 🆔"
 BTN_PRICE     = "📊 𝐏𝐫𝐢𝐜𝐞 𝐋𝐢𝐬𝐭"
 BTN_SUPPORT   = "🎧 𝐒𝐮𝐩𝐩𝐨𝐫𝐭"
 BTN_HISTORY   = "📜 𝐌𝐲 𝐇𝐢𝐬𝐭𝐨𝐫𝐲"
